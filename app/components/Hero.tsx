@@ -118,10 +118,18 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              <a href="#contact" className="apple-button">
+              <a 
+                href="/Sulthanasafeer I Resumeee.pdf" 
+                target="_blank"
+                rel="noopener noreferrer"
+                className="apple-button"
+              >
                 Download CV
               </a>
-              <a href="#work" className="text-sm font-semibold leading-6 text-white tracking-wider hover:text-pink-400 transition-colors">
+              <a 
+                href="#work"
+                className="text-sm font-semibold leading-6 text-white tracking-wider hover:text-pink-400 transition-colors"
+              >
                 View My Work <span aria-hidden="true">→</span>
               </a>
             </motion.div>

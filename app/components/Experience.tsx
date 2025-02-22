@@ -91,7 +91,7 @@ export default function Experience() {
           transition={{ duration: 0.8 }}
         >
           <h2 className="text-3xl font-bold text-foreground sm:text-4xl">My Experience</h2>
-          <p className="mt-4 text-lg text-muted-foreground">A journey through my professional growth</p>
+          <p className="mt-4 text-lg text-muted-foreground">Scroll down to see my journey</p>
         </motion.div>
 
         <div className="relative">

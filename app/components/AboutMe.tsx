@@ -14,9 +14,14 @@ export default function AboutMe() {
         >
           <h2 className="text-3xl font-bold text-foreground sm:text-4xl mb-4">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            I'm Sulthana Safeer, a passionate UX/UI Marketing Associate with a knack for creating user-centric designs
-            and implementing effective marketing strategies. With a blend of creativity and analytical thinking, I
-            strive to bridge the gap between user needs and business goals.
+          Results-driven UX/UI Designer with a proven track record in creating intuitive user interfaces and enhancing user experiences for
+ innovative projects, including Biebite, a semi-finalist at the App Olympics, which was announced by H.H. Sheikh Hamdan bin
+ Mohammed bin Rashid Al Maktoum. Contributed as Marketing Associate (UX/UI) at FoodSwap and the Launch Emirates
+ initiative at SinX Solutions. Proficient in Figma, V0, Bolt, and Magic UI, applying iterative design processes to meet strategic
+ goals. Gained experience in digital marketing through an internship with the Kerala Development and Innovation Strategic
+ Council, managing content strategies and social media engagement. Honed design expertise at Publicis Sapient, delivering user
+ centered solutions. Founder of the Middlesex University Dubai Cyber Club, recognized with the Student Award for Club
+ Coordinator.
           </p>
         </motion.div>
         <motion.div
@@ -28,8 +33,7 @@ export default function AboutMe() {
           <div className="space-y-4">
             <h3 className="text-2xl font-semibold text-foreground">My Approach</h3>
             <p className="text-muted-foreground">
-              I believe in a holistic approach to UX/UI and marketing. By combining user research, data-driven insights,
-              and creative design, I create experiences that not only look great but also perform exceptionally well.
+              I believe in a holistic approach to UX/UI and marketing. I use what I learn from talking to users, digging into the data, and getting creative with design to build experiences that not only look good but actually work the way people need them to.
             </p>
           </div>
           <div className="space-y-4">
